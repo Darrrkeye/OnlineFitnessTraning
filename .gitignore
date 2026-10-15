@@ -1,0 +1,6 @@
+*.class
+*.log
+.env
+.vscode/
+target/
+desktop.ini
